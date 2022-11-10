@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicio N°1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairoAcosta/OpenBootcamp.git"
+  },
+  "author": "Jairo Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairoAcosta/OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/JairoAcosta/OpenBootcamp#readme"
+}
