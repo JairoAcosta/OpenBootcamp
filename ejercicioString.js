@@ -1,0 +1,10 @@
+let nombre='Jairo';
+let apellido='Acosta';
+let estudiante=`${nombre} ${apellido}`;
+let estudianteMayus=console.log(estudiante.toUpperCase());
+let estudianteMinus=console.log(estudiante.toLowerCase());
+let tamañoEstudiante=console.log(estudiante.length);
+let primeraLetra=console.log(nombre.charAt(0));
+let ultimaLetraApellido=console.log(apellido.charAt(apellido.length-1));
+let sinEspacios=console.log(nombre.trimEnd()+apellido.trim());
+let buscaNombre=console.log(estudiante.includes(nombre));
