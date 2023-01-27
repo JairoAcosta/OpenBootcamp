@@ -8,5 +8,5 @@ boton.addEventListener("click",() => {
     $(()=>{
         $("button").click(()=>{
             console.log("Hola estoy utilizando jQuery");
-        })
-    })
+        });
+    });
